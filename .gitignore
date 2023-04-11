@@ -1,0 +1,11 @@
+
+*.meta
+*.meta
+*.meta
+**/Library/*
+**/Temp/*
+obj/Debug
+.vs
+Library/*
+Logs/*
+WindowBuild/*
